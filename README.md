@@ -1,7 +1,7 @@
 > "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke  
 > (But I'm here to demystify it, starting with a single NAND gate.)
 
-⚔️ Quest Log: From NAND to Mastery: An aspiring software engineer on a quest to master the fundamentals of computer science & engineering.
+⚔️ An aspiring software engineer on a quest to master the fundamentals of computer science & engineering.
 
 ⏪👀 Previously on my GitHub:
 - **Nand2Tetris Part I: Hardware** (Projects 1-6) 
