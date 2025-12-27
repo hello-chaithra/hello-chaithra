@@ -4,9 +4,9 @@
 ⚔️ An aspiring software engineer on a quest to master the fundamentals of computer science & engineering.
 
 ⏪👀 Previously on my GitHub:
-- **Nand2Tetris Part I: Hardware**:Built elementary logic gates → ALU → full 16-bit Hack computer hardware in HDL.  
+- **Nand2Tetris Part I: Hardware**: Elementary logic gates → ALU → full 16-bit Hack computer hardware in HDL.  
   (In progress – watch this space!)
-- **Nand2Tetris Part II: Software**:Assembler → VM Translator → Compiler → OS. Turned bits into a modern software stack!  
+- **Nand2Tetris Part II: Software**: Assembler → VM Translator → Compiler → OS 
   (In progress – watch this space!)
 
 👀⏩ Coming Next: FPGA Implementation of Nand2Tetris
@@ -29,5 +29,3 @@ Taking the Hack computer from simulation to real hardware on an FPGA board. Synt
 > Pull requests to my quests are welcome! 
 
 Thanks for visiting my corner of the matrix. Keep building! 💻✨
-
-
