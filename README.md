@@ -4,6 +4,7 @@
 ⚔️ An aspiring software engineer on a quest to master the fundamentals of computer science & engineering.
 
 ⏪👀 Previously on my GitHub:
+- **cs50x-2025**: My attempt at solving the cs50 problem sets. [https://github.com/hello-chaithra/cs50x-2025]
 - **Nand2Tetris Part I: Hardware**: Elementary logic gates → ALU → full 16-bit Hack computer hardware in HDL.  
   (In progress – watch this space!)
 - **Nand2Tetris Part II: Software**: Assembler → VM Translator → Compiler → OS 
