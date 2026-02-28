@@ -21,7 +21,7 @@ I'm an AI & Data Science undergraduate student passionate about building things 
 
 ## 🚀 Featured Projects
 
-### [ML-Driven Supply Chain Analytics Dashboard](https://github.com/your-username/supply-chain-dashboard-ml) | [Live Demo](https://chaithra-supply-chain-dashboard.streamlit.app)
+### [ML-Driven Supply Chain Analytics Dashboard](https://github.com/hello-chaithra/supply-chain-dashboard-ML) | [Live Demo](https://chaithra-supply-chain-dashboard.streamlit.app)
 > Interactive dashboard for inventory forecasting, demand analysis, and logistics visualization. Publicly deployed on Streamlit Cloud.
 
 - **Stack:** Python, Pandas, NumPy, SQL (SQLite), Scikit-learn, Plotly, Streamlit
