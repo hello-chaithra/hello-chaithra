@@ -1,5 +1,4 @@
  Hi, I'm Chaithra 
- - [GitHub](https://github.com/hello-chaithra) · [LinkedIn](https://www.linkedin.com/in/chaithra-arun06/)
 - 🎓 B.Tech in AI & Data Science (2024–2028) | 🚀 Building at the intersection of MLOps, & DevOps
 
 ---
