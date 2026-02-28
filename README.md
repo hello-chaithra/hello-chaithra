@@ -8,7 +8,7 @@
 
 I'm an AI & Data Science undergraduate passionate about building things end-to-end. From NAND gates to ML pipelines to deployed dashboards.
 
-- 🌱 Learning by doing: every project here is something I built, debugged, and shipped myself
+- 🌱 Learning by doing: every project here is something I built, debugged, and shipped.
 
 ---
 
