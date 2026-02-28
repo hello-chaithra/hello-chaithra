@@ -1,32 +1,56 @@
-> "Any sufficiently advanced technology is indistinguishable from magic." – Arthur C. Clarke  
-> (But I'm here to demystify it, starting with a single NAND gate.)
+ Hi, I'm Chaithra 
+ - [GitHub](https://github.com/hello-chaithra) · [LinkedIn](https://www.linkedin.com/in/chaithra-arun06/)
+- 🎓 B.Tech in AI & Data Science (2024–2028) | 🚀 Building at the intersection of MLOps, & DevOps
 
-⚔️ An aspiring software engineer on a quest to master the fundamentals of computer science & engineering.
+---
 
-⏪👀 Previously on my GitHub:
-- **cs50x-2025**: My attempt at solving the cs50 problem sets. [https://github.com/hello-chaithra/cs50x-2025]
-- **Nand2Tetris Part I: Hardware**: Elementary logic gates → ALU → full 16-bit Hack computer hardware in HDL.  
-  (In progress – watch this space!)
-- **Nand2Tetris Part II: Software**: Assembler → VM Translator → Compiler → OS 
-  (In progress – watch this space!)
+## About Me
 
-👀⏩ Coming Next: FPGA Implementation of Nand2Tetris
-Taking the Hack computer from simulation to real hardware on an FPGA board. Synthesis, timing, blinking LEDs incoming!  
+I'm an AI & Data Science undergraduate passionate about building things end-to-end. From NAND gates to ML pipelines to deployed dashboards.
 
+- 🌱 Learning by doing: every project here is something I built, debugged, and shipped myself
 
-## 🛠️ Tools & Artifacts in My Inventory
+---
 
-- **Languages**: HDL (Hack), Assembly, Jack, Python, C/C++ (and growing!)
-- **Currently Grinding**: Verilog/VHDL, FPGA tooling (Vivado/Quartus), low-level systems
-- **Side Quests**: Algorithms, data structures, operating systems concepts
+## 🛠️ Tech Stack
 
-## 🌟 Connect & Join the Party
+- **AI/ML**: Python, TensorFlow, PyTorch, scikit-learn, Pandas
+- **DevOps & Cloud**: Docker, Kubernetes, GitHub Actions, AWS/GCP, Prometheus, Grafana
+- **Languages & Backend**: Java, C++, R, SQL, JavaScript, Spring Boot
 
-- 📫 Email: helllochaithra@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/chaithra-arun06
-- 🐦 Leetcode: https://leetcode.com/u/Chaithra_Arunkumar/ 
+---
 
-> Open to collaborations on systems projects, hardware hacks, or just geeking out over CS fundamentals.  
-> Pull requests to my quests are welcome! 
+## 🚀 Featured Projects
 
-Thanks for visiting my corner of the matrix. Keep building! 💻✨
+### [ML-Driven Supply Chain Analytics Dashboard](https://github.com/your-username/supply-chain-dashboard-ml) | [Live Demo](https://chaithra-supply-chain-dashboard.streamlit.app)
+> Interactive dashboard for inventory forecasting, demand analysis, and logistics visualization. Publicly deployed on Streamlit Cloud.
+
+- **Stack:** Python, Pandas, NumPy, SQL (SQLite), Scikit-learn, Plotly, Streamlit
+- **Random Forest** demand forecasting with **Linear Regression** baseline comparison
+- **SQL** pipeline analyzing 10,000+ records for stockout risk, delivery performance, and category trends
+
+---
+
+### [NAND2Tetris: Building a Modern Computer from Scratch](https://github.com/your-username/nand2tetris)
+> Implemented a full computing stack from NAND gates up to a working Tetris game. For deep, first-principles understanding of how computers actually work.
+
+- **Stack:** HDL, Assembler, VM Translator, Jack Compiler, Basic OS
+- **Built:** logic gates → ALU → CPU → RAM → assembler → VM → compiler → OS
+- Completed as part of the **Hebrew University of Jerusalem** course on Coursera.
+
+---
+
+## 🏅 Certifications & Achievements
+
+| | | |
+|---|---|---|
+| Google Data Analytics Professional Certificate | [Google Data Analytics Specialization](https://coursera.org/share/94bda7fd26c31893f0da228a2a1d5b0c) | Feb 2025 |
+| Build a Modern Computer from First Principles | [Nand to Tetris Project-Centered Course](https://coursera.org/share/cf05bbed3d5295b0ae4428c6bce158dc) | Feb 2026 |
+| 100 Days of DevOps Challenge | — | Ongoing (June 2026) |
+
+| | | |
+|---|---|---|
+| Kaggle March Mania Competitor Badge | [Kaggle Profile](https://www.kaggle.com/chaithra06) | Mar 2026 |
+| MLOps Framework for Generative AI | [Google Skills Profile](https://www.skills.google/public_profiles/a9172276-5cf9-4d5b-9e26-5e2705be1d52) | Feb 2026 |
+
+---
