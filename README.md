@@ -30,15 +30,6 @@ I'm an AI & Data Science undergraduate student passionate about building things 
 
 ---
 
-### [NAND2Tetris: Building a Modern Computer from Scratch](https://github.com/your-username/nand2tetris)
-> Implemented a full computing stack from NAND gates up to a working Tetris game. For deep, first-principles understanding of how computers actually work.
-
-- **Stack:** HDL, Assembler, VM Translator, Jack Compiler, Basic OS
-- **Built:** logic gates → ALU → CPU → RAM → assembler → VM → compiler → OS
-- Completed as part of the **Hebrew University of Jerusalem** course on Coursera.
-
----
-
 ## 🏅 Certifications & Achievements
 
 | | | |
