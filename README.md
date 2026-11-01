@@ -5,11 +5,10 @@
 
 ![Header](./asset.gif)
 
-  
-![Tinkerer](https://img.shields.io/badge/🔧_Tinkerer-2-E23636?style=for-the-badge)
-![Hacker](https://img.shields.io/badge/🕵️_Hacker-1-1F4E9E?style=for-the-badge)
-![Jammer](https://img.shields.io/badge/🎮_Jammer-1-F5A623?style=for-the-badge)
+[![Tinkerer](https://img.shields.io/badge/Tinkerer-2-E23636?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/workbook.md)
+[![Hacker](https://img.shields.io/badge/Hacker-1-1F4E9E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/labs.md)
+[![Jammer](https://img.shields.io/badge/Jammer-1-F5A623?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/events.md)
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=12&amp;pause=1200&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=psst...+poke+a+badge;each+one+opens+a+secret+level;hop+in.+the+bugs+are+friendly" alt="Hint: click my badges."/> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=12&amp;pause=1200&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=psst...+poke+a+badge;tinkerer+hacker+or+jammer;hop+in.+the+bugs+are+friendly" alt="Hint: click my badges."/> </div>
