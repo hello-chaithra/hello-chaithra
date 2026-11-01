@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://github.com/hello-chaithra/hello-chaithra#readme">
+    <img alt="Back to main" src="https://img.shields.io/badge/Back_to_Main-24292F?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 ## WORKBOOKS
 Many of my repos are practical workbooks: a mini project I built to learn something new, with a gist in the repo README on the process, errors and notes.
 
