@@ -12,25 +12,4 @@
 
 </div>
 
-## WORKBOOKS
-Many of my repos are practical workbooks: a mini project I built to learn something new, with a gist in the repo README on the process, errors and notes.
-
-| # | Workbook | Skill |
-|---|----------|-------|
-| 1 | [quote-commits](https://github.com/hello-chaithra/quote-commits) | Git & GitHub |
-| 2 | [coin-dash](https://github.com/hello-chaithra/coin-dash) | Programming & Game Logic |
-
-## LABS
-Repos where I share security practice, break things safely, and write down what I learn, with a gist in the repo README on the process, errors and notes.
-
-| # | Lab | Focus |
-|---|-----|-------|
-| 1 | OverTheWire Bandit | Linux & security basics |
-
-## EVENTS
-Repos where I share projects and my experience from game jams, design sprints, data sprints and more technical events.
-
-| Event | Update |
-|-------|--------|
-| GitHub Game Off 2026 | Ongoing (Nov 1 - Dec 1) |
-| UXDC Designathon 2026 | Next (Nov 7 - Nov 8) |
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=12&amp;pause=1200&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=psst...+poke+a+badge;each+one+opens+a+secret+level;hop+in.+the+bugs+are+friendly" alt="Hint: click my badges."/> </div>
