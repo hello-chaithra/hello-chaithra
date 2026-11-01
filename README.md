@@ -3,14 +3,9 @@
 
 <div align="center">
 
-![Header](./header.gif)
+![Header](./asset.gif)
 
-</div>
-
-<div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E23636&center=true&vCenter=true&width=700&lines=Tiny+inventions%2C+Huge+curiosity;Hardware+Software+Networks;Security%2C+My+Final+Boss%F0%9F%9B%A1%EF%B8%8F)
-
 ![Tinkerer](https://img.shields.io/badge/🔧_Tinkerer-2-E23636?style=for-the-badge)
 ![Hacker](https://img.shields.io/badge/🕵️_Hacker-1-1F4E9E?style=for-the-badge)
 ![Jammer](https://img.shields.io/badge/🎮_Jammer-1-F5A623?style=for-the-badge)
