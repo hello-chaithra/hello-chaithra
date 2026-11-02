@@ -5,9 +5,9 @@
 
 ![Header](./asset.gif)
 
-[![Tinkerer](https://img.shields.io/badge/Tinkerer-2-E23636?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/workbook.md)
-[![Hacker](https://img.shields.io/badge/Hacker-1-1F4E9E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/scribes.md)
-[![Jammer](https://img.shields.io/badge/Jammer-1-F5A623?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/labs.md)
+[![Tinkerer](https://img.shields.io/badge/Tinkerer-2-E23636?style=for-the-badge&logo=nand&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/workbook.md)
+[![Hacker](https://img.shields.io/badge/Hacker-1-1F4E9E?style=for-the-badge&logo=hack&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/scribes.md)
+[![Scribes](https://img.shields.io/badge/Scribes-1-F5A623?style=for-the-badge&logo=notes&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/notes.md)
 
 </div>
 
