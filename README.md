@@ -6,8 +6,8 @@
 ![Header](./asset.gif)
 
 [![Tinkerer](https://img.shields.io/badge/Tinkerer-2-E23636?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/workbook.md)
-[![Hacker](https://img.shields.io/badge/Hacker-1-1F4E9E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/labs.md)
-[![Jammer](https://img.shields.io/badge/Jammer-1-F5A623?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/events.md)
+[![Hacker](https://img.shields.io/badge/Hacker-1-1F4E9E?style=for-the-badge&logo=tryhackme&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/scribes.md)
+[![Jammer](https://img.shields.io/badge/Jammer-1-F5A623?style=for-the-badge&logo=itchdotio&logoColor=white)](https://github.com/hello-chaithra/hello-chaithra/blob/main/labs.md)
 
 </div>
 
