@@ -13,7 +13,7 @@ Repos where I share projects and my experience from game jams, design sprints, d
 <h3>LEETCODE SCRIBES</h3>
 <img src="https://img.shields.io/badge/leetcode-C11111?style=for-the-badge&amp;logo=LEETCODE&amp;logoColor=white" alt="LeetCode Progress"/>
 <br>
-<a href=https://github.com/hello-chaithra/leetcode-scribes"><img src="https://img.shields.io/badge/OPEN-SCRIBE-C11111?style=for-the-badge&amp;logo=LEETCODE&amp;logoColor=white" alt="Open writeups"/></a>
+<a href=https://github.com/hello-chaithra/leetcode-scribes><img src="https://img.shields.io/badge/OPEN-SCRIBE-C11111?style=for-the-badge&amp;logo=LEETCODE&amp;logoColor=white" alt="Open writeups"/></a>
 
 </td>
 </tr>
