@@ -11,4 +11,4 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=12&amp;pause=1200&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=psst...+poke+a+badge;tinkerer+for+mini+projects;scribes+for+leetcode+and+more+" alt="Hint: click my badges."/> </div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=12&amp;pause=1200&amp;color=E23636&amp;center=true&amp;vCenter=true&amp;width=560&amp;height=40&amp;lines=psst...+poke+a+badge;tinkerer+for+mini+projects;hacker+for+CTFS+writeups;scribes+for+leetcode+solutions+and+more+" alt="Hint: click my badges."/> </div>
