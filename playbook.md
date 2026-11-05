@@ -10,10 +10,10 @@ Repos where I share security practice, break things safely, and write down what 
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<h3>OVER THE WIRE - BANDIT</h3>
-<img src="https://img.shields.io/badge/OverTheWire%20BANDIT-C11111?style=for-the-badge&amp;logo=overthewire&amp;logoColor=white" alt="OTWBandit"/>
+<h3>HACK TO X86-64</h3>
+<img src="https://img.shields.io/badge/Hack%20to%20x86-64-C11111?style=for-the-badge&amp;logo=amd&amp;logoColor=white" alt="hacktox86-64"/>
 <br>
-<a href="https://github.com/hello-chaithra/over-the-wire-bandit"><img src="https://img.shields.io/badge/OPEN-PLAYBOOK-C11111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open writeups"/></a>
+<a href="https://github.com/hello-chaithra/hack-to-x86-64"><img src="https://img.shields.io/badge/OPEN-PLAYBOOK-C11111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open Playbook"/></a>
 
 </td>
 </tr>
