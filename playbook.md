@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## PLAYBOOK
+## PLAYBOOKS
 Repos where I share security practice, break things safely, and write down what I learn, with a gist in the repo README on the process, errors and notes.
 
 <table width="100%">
