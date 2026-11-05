@@ -5,7 +5,7 @@
 </p>
 
 ## SCRIBES
-Repos where I share projects and my experience from game jams, design sprints, data sprints and more technical events.
+Repos where I share notes, solutions and my experience from game jams, design sprints, data sprints and technical events.
 
 <table width="100%">
 <tr>
