@@ -10,10 +10,10 @@ Repos where I share security practice, break things safely, and write down what 
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<h3>HACKER HOLIDAYS 2026</h3>
-<img src="https://img.shields.io/badge/TryHackMe%20CTF-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe CTF"/>
+<h3>OVER THE WIRE - BANDIT</h3>
+<img src="https://img.shields.io/badge/OverTheWire%20BANDIT-C11111?style=for-the-badge&amp;logo=overthewire&amp;logoColor=white" alt="OTWBandit"/>
 <br>
-<a href="https://github.com/hello-chaithra/hacker-holidays-2026"><img src="https://img.shields.io/badge/OPEN-PLAYBOOK-C11111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open writeups"/></a>
+<a href="https://github.com/hello-chaithra/over-the-wire-bandit"><img src="https://img.shields.io/badge/OPEN-PLAYBOOK-C11111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Open writeups"/></a>
 
 </td>
 </tr>
